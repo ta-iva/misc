@@ -1,2 +1,5 @@
-#Various
-Various finished and unfinished personal projects
+## Various projects
+
+Various finished and unfinished personal projects:
+
+- UU Dinos - Python data analysis workshop at Unicorn University
